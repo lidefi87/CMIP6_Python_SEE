@@ -20,3 +20,4 @@ Debido a una gran cantidad de dependencias entre varios paquetes, esta carpeta i
 
 Pueden encontrar indicaciones adicionales sobre como crear un ambiente desde un archivo `yml` en este [vinculo](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
+Si prefieres, puedes acceder este repositorio desde NBViewer [aqui](https://nbviewer.org/github/lidefi87/CMIP6_Python_SEE/tree/main/).
