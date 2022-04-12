@@ -172,4 +172,4 @@ dependencies:
     - nest-asyncio==1.5.1
     - pywin32==302
     - pyzmq==22.3.0
-prefix: C:\Users\Denisse\AppData\Local\R-MINI~1\envs\CMIP6_Python
+
