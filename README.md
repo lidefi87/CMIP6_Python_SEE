@@ -10,7 +10,7 @@ En este cuaderno de Jupyter se utilizan las siguientes bibliotecas:
 - xarray  
 - numpy  
 - intake  
-- cmip6_preprocessing  
+- xmip  
 - matplotlib
 - cmocean
 - cartopy
@@ -21,3 +21,6 @@ Debido a una gran cantidad de dependencias entre varios paquetes, esta carpeta i
 Pueden encontrar indicaciones adicionales sobre como crear un ambiente desde un archivo `yml` en este [vinculo](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
 Si prefieres, puedes acceder este repositorio desde NBViewer [aqui](https://nbviewer.org/github/lidefi87/CMIP6_Python_SEE/tree/main/).
+  
+*Notas:*  
+La biblioteca `cmip6_preprocessing` fue renombrada a `xmip`. Este cuaderno y todos los archivos de soporte han sido actualizados para reflejar este cambio. 
