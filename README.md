@@ -1,6 +1,6 @@
 # CMIP6_Python_SEE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lidefi87/CMIP6_Python_SEE/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lidefi87/CMIP6_Python_SEE.git/HEAD)
 
 Este taller fue creado como parte del **Python Weekend** organizado por la [Sociedad Ecuatoriana de Estadistica](https://www.facebook.com/socecuest/).
 
